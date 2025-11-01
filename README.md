@@ -30,4 +30,4 @@ example scenario ⬆️
 
 ---
 # 🧠 Jenkins Master–Slave Setup
--  🔗setupLink   [Master–Slave 📡](https://duckduckgo.com) 
+-  🔗setupLink   [Master–Slave 📡](https://github.com/solaijr11/Jenkins-Master-slave) 
